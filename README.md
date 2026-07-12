@@ -316,4 +316,6 @@ the people who shared the first Linux notes for this display.
 
 ## License
 
-MIT
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
